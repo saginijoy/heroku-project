@@ -8,7 +8,7 @@ import java.util.Collections;
 @RestController
 public class CoverController {
 
-    @GetMapping
+    @GetMapping("/")
     Iterable<?> list(){
         return Collections.emptyList();
     }

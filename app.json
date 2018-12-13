@@ -1,0 +1,29 @@
+{
+  "name": "",
+  "description": "",
+  "keywords": [
+  ],
+  "website": "",
+  "repository": "",
+  "logo": "",
+  "success_url": "",
+  "scripts": {
+
+  },
+  "env": {
+
+  },
+  "formation": {
+
+  },
+  "image": "",
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "environments": {
+
+  }
+}
