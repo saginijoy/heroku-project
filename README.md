@@ -1,1 +1,1 @@
-application to deploy in heroku
+application to deploy in herokugi
